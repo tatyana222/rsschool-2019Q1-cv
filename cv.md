@@ -40,7 +40,7 @@ So the goals of my participation in the course is to get new and structure exist
 * Operating Systems: Linux (Ubuntu), MS Windows;
 
 ## Working experience
-Feb-2012 - now - Software Engineer, EPAM Systems  
+Feb-2012 - now - Software Engineer, EPAM Systems, http://www.epam.com  
 Jul-2011 - Mar-2013 - Junior Software Engineer, EPAM Systems
 
 ## Education
