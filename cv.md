@@ -11,28 +11,33 @@ So the goals of my participation in the course is to get new and structure exist
 
 ## Skills
 * **Primary skill**: Java
-* Java: Java EE: EJB, JPA, JTA, JAXB, JMX, CDI, Bean Validation, JMS, JavaMail API, JAX-RS, JAX-WS, JSTL, Java Server Faces (JSF), Java Server Pages (JSP), Java Servlets;
-* Java: JEE Frameworks: Apache Struts, Hibernate, ICEfaces, JBoss Seam, JavaServer Faces View Definition Framework (Facelets), Richfaces;
-* Java: Spring: Spring Core, Spring Security, Spring Boot, Spring Data, Spring MVC;
-* Java: Building Tools: Ant/Ivy, Maven, Gradle;
-* Java: Application Servers and Middleware: Apache Tomcat, IBM WebSphere Application Server, JBoss, Oracle WebLogic Server, WildFly;
+* Java: 
+  ** Java EE: EJB, JPA, JTA, JAXB, JMX, CDI, Bean Validation, JMS, JavaMail API, JAX-RS, JAX-WS, JSTL, Java Server Faces (JSF), Java Server Pages (JSP), Java Servlets;
+  ** JEE Frameworks: Apache Struts, Hibernate, ICEfaces, JBoss Seam, JavaServer Faces View Definition Framework (Facelets), Richfaces;
+  ** Spring: Spring Core, Spring Security, Spring Boot, Spring Data, Spring MVC;
+  ** Building Tools: Ant/Ivy, Maven, Gradle;
+  ** Application Servers and Middleware: Apache Tomcat, IBM WebSphere Application Server, JBoss, Oracle WebLogic Server, WildFly;
 * Other Programming Languages: Groovy, Python, JavaScript;  
-* Databases: Oracle, MySQL, PostgreSQL, Microsoft SQL Server;
-* Database versioning: Flyway, Liquibase;  
+* Databases: 
+  ** Oracle, MySQL, PostgreSQL, Microsoft SQL Server;
+  ** Database versioning: Flyway, Liquibase;  
 * Internet Technologies: AJAX, Apache HTTP Server, DTD/XSD, Google Web Toolkit, XML/XSL/XSLT;
 * JavaScript: AngularJS, Bootstrap, JQuery, JS core, jQuery UI, underscore.js;
 * Tools: Chrome DevTools, Firebug, MS Edge DevTools;  
-* UXD: Development: (X)CSS Development, (X)HTML Development, Crossbrowser Coding, Responsive Web Design;
-* UXD: Computer Graphics Art: 2D raster art, 2D vector art and animation, 3D modeling and visualization, Pixel art, UI/UX design;
-* UXD: Design Tools: Adobe Photoshop, Corel Draw;
-* UXD: Visual Design: Illustration, Web Graphic Design.  
-* Testing: Test Levels: Component / Integration Testing, System Integration Testing, System Testing, Unit testing;
-* Testing: Acceptance Testing: Cucumber, Spock;
-* Testing: Unit Testing: DbUnit, JUnit, Mockito, Unitils;
-* Testing: Test Types: Functional testing, GUI Testing;
-* Testing: Web UI Testing: Selenium;  
-* Software Quality: Techniques: Clean Code;
-* Software Quality: Code Audit Tools: Sonar;  
+* UXD: 
+  ** Development: (X)CSS Development, (X)HTML Development, Crossbrowser Coding, Responsive Web Design;
+  ** Computer Graphics Art: 2D raster art, 2D vector art and animation, 3D modeling and visualization, Pixel art, UI/UX design;
+  ** Design Tools: Adobe Photoshop, Corel Draw;
+  ** Visual Design: Illustration, Web Graphic Design.  
+* Testing: 
+  ** Test Levels: Component / Integration Testing, System Integration Testing, System Testing, Unit testing;
+  ** Acceptance Testing: Cucumber, Spock;
+  ** Unit Testing: DbUnit, JUnit, Mockito, Unitils;
+  ** Test Types: Functional testing, GUI Testing;
+  ** Web UI Testing: Selenium;  
+* Software Quality: 
+  ** Techniques: Clean Code;
+  ** Code Audit Tools: Sonar;  
 * CI/CD: Jenkins, TeamCity, Gitlab CI;  
 * Integrated Development Environments: Eclipse IDE, Eclipse Platform, IntelliJ IDEA, NetBeans IDE;  
 * Version Control Systems: Git (using BitBucket, GitHub, Gitlab), SVN (TortoiseSVN);  
@@ -47,18 +52,18 @@ Jul-2011 - Mar-2013 - Junior Software Engineer, [EPAM Systems](http://www.epam.c
 2008 - 2012 Karaganda State Technical University, Bachelor in Computer Science And Software Engineering
 
 ## Online courses
-Machine Learning (Coursera, Stanford University) 2013-2014  
+1. Machine Learning (Coursera, Stanford University) 2013-2014  
 Grade Achieved: 100.0%  
   
-Introduction to Machine Learning (Coursera, HSE, Yandex Data School) 2016  
+2. Introduction to Machine Learning (Coursera, HSE, Yandex Data School) 2016  
 Grade Achieved: 100.0%  
   
-Computational Neuroscience (Coursera, University of Washington) 2015  
+3. Computational Neuroscience (Coursera, University of Washington) 2015  
 Grade Achieved: 68.4%
 
 ## English
-English - Speaking - B2+ (Upper-intermediate)  
-English - Writing - B2+ (Upper-intermediate)  
+English - Speaking - B2+ (*Upper-intermediate*)  
+English - Writing - B2+ (*Upper-intermediate*)  
   
 Have English practice for more than 6 years on foreign projects.
 
