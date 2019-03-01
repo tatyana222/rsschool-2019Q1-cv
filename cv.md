@@ -16,37 +16,27 @@ So the goals of my participation in the course is to get new and structure exist
 * Java: Spring: Spring Core, Spring Security, Spring Boot, Spring Data, Spring MVC;
 * Java: Building Tools: Ant/Ivy, Maven, Gradle;
 * Java: Application Servers and Middleware: Apache Tomcat, IBM WebSphere Application Server, JBoss, Oracle WebLogic Server, WildFly;
-  
-* Other Programming Languages: Groovy, Python, JavaScript;
-  
+* Other Programming Languages: Groovy, Python, JavaScript;  
 * Databases: Oracle, MySQL, PostgreSQL, Microsoft SQL Server;
-* Database versioning: Flyway, Liquibase;
-  
+* Database versioning: Flyway, Liquibase;  
 * Internet Technologies: AJAX, Apache HTTP Server, DTD/XSD, Google Web Toolkit, XML/XSL/XSLT;
 * JavaScript: AngularJS, Bootstrap, JQuery, JS core, jQuery UI, underscore.js;
-* Tools: Chrome DevTools, Firebug, MS Edge DevTools;
-  
+* Tools: Chrome DevTools, Firebug, MS Edge DevTools;  
 * UXD: Development: (X)CSS Development, (X)HTML Development, Crossbrowser Coding, Responsive Web Design;
 * UXD: Computer Graphics Art: 2D raster art, 2D vector art and animation, 3D modeling and visualization, Pixel art, UI/UX design;
 * UXD: Design Tools: Adobe Photoshop, Corel Draw;
-* UXD: Visual Design: Illustration, Web Graphic Design.
-  
+* UXD: Visual Design: Illustration, Web Graphic Design.  
 * Testing: Test Levels: Component / Integration Testing, System Integration Testing, System Testing, Unit testing;
 * Testing: Acceptance Testing: Cucumber, Spock;
 * Testing: Unit Testing: DbUnit, JUnit, Mockito, Unitils;
 * Testing: Test Types: Functional testing, GUI Testing;
-* Testing: Web UI Testing: Selenium;
-  
+* Testing: Web UI Testing: Selenium;  
 * Software Quality: Techniques: Clean Code;
-* Software Quality: Code Audit Tools: Sonar;
-  
-* CI/CD: Jenkins, TeamCity, Gitlab CI;
-  
-* Integrated Development Environments: Eclipse IDE, Eclipse Platform, IntelliJ IDEA, NetBeans IDE;
-* Version Control Systems: Git (using BitBucket, GitHub, Gitlab), SVN (TortoiseSVN);
-  
-* Agile: Software Development Methodologies: SCRUM, Pair Programming, Test-Driven Development;
-  
+* Software Quality: Code Audit Tools: Sonar;  
+* CI/CD: Jenkins, TeamCity, Gitlab CI;  
+* Integrated Development Environments: Eclipse IDE, Eclipse Platform, IntelliJ IDEA, NetBeans IDE;  
+* Version Control Systems: Git (using BitBucket, GitHub, Gitlab), SVN (TortoiseSVN);  
+* Agile: Software Development Methodologies: SCRUM, Pair Programming, Test-Driven Development;  
 * Operating Systems: Linux (Ubuntu), MS Windows;
 
 ## Working experience
@@ -67,8 +57,8 @@ Computational Neuroscience (Coursera, University of Washington) 2015
 Grade Achieved: 68.4%
 
 ## English
-English - Speaking - B2+  
-English - Writing - B2+  
+English - Speaking - B2+ (Upper-intermediate)  
+English - Writing - B2+ (Upper-intermediate)  
   
 Have English practice for more than 6 years on foreign projects.
 
