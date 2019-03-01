@@ -10,8 +10,7 @@ That's how I gained novice-level practical skills in CSS, JavaScript and JQuery.
 So the goals of my participation in the course is to get new and structure existing knowledge, learn front-end best practices and become full-stack.
 
 ## Skills
-* **Primary skill**: Java
-* Java: 
+* **Primary skill**: Java:
   * Java EE: EJB, JPA, JTA, JAXB, JMX, CDI, Bean Validation, JMS, JavaMail API, JAX-RS, JAX-WS, JSTL, Java Server Faces (JSF), Java Server Pages (JSP), Java Servlets;
   * JEE Frameworks: Apache Struts, Hibernate, ICEfaces, JBoss Seam, JavaServer Faces View Definition Framework (Facelets), Richfaces;
   * Spring: Spring Core, Spring Security, Spring Boot, Spring Data, Spring MVC;
