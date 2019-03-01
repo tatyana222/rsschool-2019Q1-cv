@@ -51,26 +51,26 @@ So the goals of my participation in the course is to get new and structure exist
 
 
 ## Working experience
-Feb-2012 - now - Software Engineer, EPAM Systems\
+Feb-2012 - now - Software Engineer, EPAM Systems  
 Jul-2011 - Mar-2013 - Junior Software Engineer, EPAM Systems
 
 ## Education
 2008 - 2012 Karaganda State Technical University, Bachelor in Computer Science And Software Engineering
 
 ## Online courses
-Machine Learning (Coursera, Stanford University) 2013-2014 \
-Grade Achieved: 100.0%\
-\
-Introduction to Machine Learning (Coursera, HSE, Yandex Data School) 2016 \
-Grade Achieved: 100.0%\
-\
-Computational Neuroscience (Coursera, University of Washington) 2015 \
+Machine Learning (Coursera, Stanford University) 2013-2014  
+Grade Achieved: 100.0%  
+  
+Introduction to Machine Learning (Coursera, HSE, Yandex Data School) 2016  
+Grade Achieved: 100.0%  
+  
+Computational Neuroscience (Coursera, University of Washington) 2015  
 Grade Achieved: 68.4%
 
 ## English
-English - Speaking - B2+\
-English - Writing - B2+\
-\
+English - Speaking - B2+  
+English - Writing - B2+  
+  
 Have English practice for more than 6 years on foreign projects.
 
 
